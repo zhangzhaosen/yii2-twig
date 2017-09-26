@@ -32,7 +32,7 @@ php composer.phar require --prefer-dist zhangzhaosen/yii2-twig
 or add
 
 ```
-"zhangzhaosen/yii2-twig": "~2.0.0"
+"zhangzhaosen/yii2-twig": "~1.0.0"
 ```
 
 to the require section of your composer.json.
